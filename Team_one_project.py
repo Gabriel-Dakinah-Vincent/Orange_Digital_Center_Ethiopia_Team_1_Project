@@ -20,17 +20,17 @@ def divide(x, y):
     return x / y
 
 
-# This function modulus two numbers
+# This function returns the remaining numbers by dividing the first number from the second.
 def modulus(x, y):
     return x % y
 
 
-# This function divides two numbers
+# This function raise the first number to the power of the second number.
 def exponentiation(x, y):
     return x ** y
 
 
-# This function divides two numbers
+# This function divide the first argument by the second and round the result down to the nearest whole number, making it equivalent to the math.floor () function.
 def floor_division(x, y):
     return x // y
 
